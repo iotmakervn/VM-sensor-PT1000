@@ -1,4 +1,4 @@
-update=Thứ bảy, 24 Tháng mười hai Năm 2016 14:17:31 ICT
+update=Thứ hai, 26 Tháng mười hai Năm 2016 18:01:34 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=lib/AMS1117
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=assets/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
