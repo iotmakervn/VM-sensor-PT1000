@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/trinhduc/2016/VM-sensor-PT1000/VM-sensor-PT1000.sch)
-    (date "Thứ hai, 26 Tháng mười hai Năm 2016 11:29:31 ICT")
+    (date "Thứ hai, 26 Tháng mười hai Năm 2016 13:48:57 ICT")
     (tool "Eeschema no-vcs-found-7397~56~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -270,7 +270,7 @@
       (node (ref C1) (pin 1))
       (node (ref P3) (pin 1))
       (node (ref U1) (pin 3)))
-    (net (code 9) (name /Red)
+    (net (code 9) (name /Blue)
       (node (ref P1) (pin 2))
       (node (ref R4) (pin 2))
       (node (ref P1) (pin 3))
