@@ -8,7 +8,7 @@
 
 ### PCB Layout
 
-[![VM-sensor-PT1000 PCB](assets/VM-sensor-PT1000-pcb.png)](assets/VM-sensor-PT1000-pcb.svg)
+[![VM-sensor-PT1000 PCB](assets/VM-sensor-PT1000-PCB.png)](assets/VM-sensor-PT1000-pcb.svg)
 
 ### 3D
 
