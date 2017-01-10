@@ -1,4 +1,4 @@
-update=Thứ hai, 26 Tháng mười hai Năm 2016 18:01:34 ICT
+update=Thứ ba, 10 Tháng một Năm 2017 22:09:20 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,7 +58,7 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=lib/AMS1117
+LibName30=lib/dc-dc
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
